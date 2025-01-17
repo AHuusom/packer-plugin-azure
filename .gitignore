@@ -6,3 +6,4 @@ crash.log
 terraform/.terraform*
 terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
+packer-plugin-azure.exe
